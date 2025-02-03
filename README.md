@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Custom-Shopify-Theme
-=======
-<<<<<<< HEAD
 # Custom-Shopify-Theme
 =======
 # Dawn
